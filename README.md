@@ -1,4 +1,10 @@
-## Hi there 👋
+# About me
+
+- Small cat
+- Mainly focusing on .js for Bitburner
+- Sometimes trying to meddle in other projects
+- Small cat
+- Meow
 
 <!--
 **SmallestMeow/SmallestMeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
